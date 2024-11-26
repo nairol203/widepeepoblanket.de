@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@nairol.me
+Expires: 2025-12-31T11:59:00.000Z
+Encryption: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xfab62a298b8d430ab479a442a0e2c848cc13edaf
+Preferred-Languages: de, en
+Canonical: https://widepeepoblanket.de/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEHwgyIfM+vfY2D83G5RBrIcCxtZgFAmcrnQQACgkQ5RBrIcCx
+tZhgug//c1kW3FYZFQNHcJPj8uPxzWUddHeY5UMs1tqB9XCftA8Ffd/QnjLInuh2
+P2aqrY4T+Lw5RfvXEm7tyDWtroHA4c2UiIJ33vDWUikKha+txZGEFwLK9Kep+iIN
+5QATaJwTceoF7JgMo9GM1GQ6zdjbsDPKq+wRR8yvwAw3hwSH5mo+QSg1AMliRz8P
+IXuuRvRbaLpsqzBtn1lzJrVWB1JoFI1Y+jv8LtlFM9mRVN1523v+r/fqv1f4k79+
+QegZ6WNPTJsQ4LuTAXgyExrhwSQhuFgodiLunFyuhd0Y+HQ6voqtKmryyHjsiA0H
+gV8dm1/BfCTEospBSS7dn9sFGkX58lxUQCkqZpj5vlXFAPFjzVyZnV+wyiHds4v4
+9bHLDqzCFcEPoyPkxON3sApdALR67IKAWotoL9AquZRBgdurru8Q+QS7LgeA+my9
+zCWDInucLXd2fqZbLE7Fd2SUeeqHuK5aXImimQXoJ238eupUp68ilYLYWFxAaQPC
+d7zWCHoX7J1yqXF2NJ+OJr+abeyLsSyVHXv9WlhWaj0DJ9Zve7z/YYyGeZiuXh2M
+E1i5hTvevi06QBnvr/auCnKiu1fFgCyziHjp6h8BSiRSmNluPewo2s/E7FkK6N+U
+aRBCbzBaAu1JayUJLSemvQM6BP0wtFup/LNk60OMH5+lQy8UrwM=
+=IfAF
+-----END PGP SIGNATURE-----
