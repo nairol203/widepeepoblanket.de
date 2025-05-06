@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "config:recommended"
+  ],
+  "assignees": ["nairol203"],
+  "packageRules": [
+    {
+      "enabled": false,
+      "matchPackageNames": [
+        "*"
+      ]
+    }
+  ],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  },
+  "osvVulnerabilityAlerts": true
+}
