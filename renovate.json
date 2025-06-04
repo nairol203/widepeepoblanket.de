@@ -5,7 +5,7 @@
     ":semanticCommits",
     ":dependencyDashboard",
     ":disableRateLimiting",
-    ":security:only-security-updates"
+    "security:only-security-updates"
   ],
   "assignees": [
     "nairol203"
