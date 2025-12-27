@@ -2,23 +2,23 @@
 Hash: SHA512
 
 Contact: mailto:security@nairol.me
-Expires: 2025-12-31T11:59:00.000Z
+Expires: 2026-12-31T22:59:00.000Z
 Encryption: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xfab62a298b8d430ab479a442a0e2c848cc13edaf
 Preferred-Languages: de, en
 Canonical: https://widepeepoblanket.de/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEHwgyIfM+vfY2D83G5RBrIcCxtZgFAmcrnQQACgkQ5RBrIcCx
-tZhgug//c1kW3FYZFQNHcJPj8uPxzWUddHeY5UMs1tqB9XCftA8Ffd/QnjLInuh2
-P2aqrY4T+Lw5RfvXEm7tyDWtroHA4c2UiIJ33vDWUikKha+txZGEFwLK9Kep+iIN
-5QATaJwTceoF7JgMo9GM1GQ6zdjbsDPKq+wRR8yvwAw3hwSH5mo+QSg1AMliRz8P
-IXuuRvRbaLpsqzBtn1lzJrVWB1JoFI1Y+jv8LtlFM9mRVN1523v+r/fqv1f4k79+
-QegZ6WNPTJsQ4LuTAXgyExrhwSQhuFgodiLunFyuhd0Y+HQ6voqtKmryyHjsiA0H
-gV8dm1/BfCTEospBSS7dn9sFGkX58lxUQCkqZpj5vlXFAPFjzVyZnV+wyiHds4v4
-9bHLDqzCFcEPoyPkxON3sApdALR67IKAWotoL9AquZRBgdurru8Q+QS7LgeA+my9
-zCWDInucLXd2fqZbLE7Fd2SUeeqHuK5aXImimQXoJ238eupUp68ilYLYWFxAaQPC
-d7zWCHoX7J1yqXF2NJ+OJr+abeyLsSyVHXv9WlhWaj0DJ9Zve7z/YYyGeZiuXh2M
-E1i5hTvevi06QBnvr/auCnKiu1fFgCyziHjp6h8BSiRSmNluPewo2s/E7FkK6N+U
-aRBCbzBaAu1JayUJLSemvQM6BP0wtFup/LNk60OMH5+lQy8UrwM=
-=IfAF
+iQIzBAEBCgAdFiEEHwgyIfM+vfY2D83G5RBrIcCxtZgFAmlP0GsACgkQ5RBrIcCx
+tZiB4xAAhK6pJuVyfCRzTa/puKZXI1vYugSEG0BMcX7bfhY9iqu3feFNZbw7cgiA
+pw7795wYzlH1T/ElchZot4dzhQPOau7J2DeTABi/vhF1GLjLGk870125MOutffEZ
+3590BBg1Z643Dqg4a2sZUtarO1zDqmCmURrX8MMsZFkQVUs+aQrgb+dhfDE6Uzpl
+SlnAOQdNZkI1OGYaJfBUIlh1Yjz32ucy5PAtGQh0U+LcyFEA9odymAl+oCcnX/JG
+RhNu5tDFoSpv2hGwjrQSmA2lcVX917bnP0wRXNX3dJDaDFF4dkZeyJP0DUbo6LqH
+GOy20idJaZ0OkM9sF/SLCOE2Az/fppKMKrpn0laPG6zAF09YW9aeCRHyY30M8Lt8
+17FvySZ/crJ+/hRjfbhOtHawKv3BJvUQ16R9SwunUGf2P1dqpCGKipm0SOEBRVc2
+KJXT2SxhHQ33LztrvKpV11n29RFA/KUK1TUvnI0/vvcokAXzZ/3DyCAaMmxyzCIM
+YsCItjCgolR/6xvm671pVo/zIBf0ocWc5Mjg2brFh9cN9Mfp0NuXkeW3IziiUf2k
+Mw8766yRYDxErHQQ1lcNiMqFU4DdHry4FTo2B41ha6u5R0GF4uZe4JBuGwe0Smcv
+WfligLCkdCw7mTRCIR+QDdXwTWyd3HTIkK6eqPikBxcYVMCAYuo=
+=us+s
 -----END PGP SIGNATURE-----
